@@ -1,0 +1,4 @@
+DOVE	scores/output.dove.dict.csv
+DeepRank	scores/output.deeprank.dict.csv
+iSCORE	scores/output.iScore.dict.csv
+HADDOCK	scores/output.haddockScore.dict.csv

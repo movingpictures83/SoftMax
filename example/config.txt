@@ -1,0 +1,2 @@
+Prefix plugins/SoftMax/example/
+Plugin SoftMax inputfile parameters.txt outputfile softmax.pkl

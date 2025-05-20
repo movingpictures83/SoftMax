@@ -1,0 +1,9 @@
+dataset	inference.pkl
+labelsfile	output.label.dict.csv
+toolsfile	tools.txt
+uniquepid	capri.uniquepid.pkl
+qualitydir	capri_score/
+qualityname	capri
+root	PISToN
+testlist	capri.testlist.pkl
+unprocessed	capri.unprocessed.pkl
